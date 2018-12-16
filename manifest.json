@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "neonfox",
+    "author": "T0astBread",
+    "theme": {
+        "colors": {
+            "accentcolor": "#0e1011",
+            "textcolor": "white",
+            "tab_line": "#8c34c7",
+            "toolbar": "#090a0b",
+            "toolbar_bottom_separator": "#333",
+            "toolbar_field": "black",
+            "toolbar_field_border": "#59477f",
+            "toolbar_field_border_focus": "#8c34c7",
+            "toolbar_field_text": "white",
+            "toolbar_field_separator": "rgba(255, 255, 255, .35)",
+            "sidebar": "#121316",
+            "sidebar_text": "white",
+            "popup": "#121316",
+            "popup_text": "white",
+            "popup_highlight": "#59477f",
+            "ntp_background": "#121316",
+            "ntp_text": "white"
+        }
+    }
+}

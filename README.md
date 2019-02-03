@@ -1,8 +1,8 @@
 # neonfox
-Dark theme with vibrant colors for FireFox
+Dark theme with vibrant colors for Firefox
 
 ## Installation
-1. Install the Add-on like you would normally
+1. Install the add-on like you would normally
 
 If you also want the monospace font (or any font/styles you like if you know CSS):
 
